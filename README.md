@@ -23,7 +23,7 @@ Además, el proyecto incluye:
 - **Spring Boot**
 - **Spring Data JPA**
 - **Spring Security**
-- **H2 Database** (para pruebas) o **MySQL** (para producción).
+- **MySQL** (para producción).
 - **Maven** para la gestión de dependencias.
 - **Postman** (recomendado para pruebas de la API).
 - **Insomnia**
